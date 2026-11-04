@@ -1,0 +1,18 @@
+CONCURRENT FILE PROCESSING SYSTEM
+Milestone 1 - Sequential processing
+
+File: sample-1.txt
+  Lines: 1
+  Words: 11
+  Characters: 87
+
+File: sample-2.txt
+  Lines: 1
+  Words: 13
+  Characters: 103
+
+TOTALS
+Files: 2
+Lines: 2
+Words: 24
+Characters: 190

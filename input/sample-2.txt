@@ -1,0 +1,1 @@
+Spring Boot applications often process files.\nThis project starts with a simple sequential baseline.\n

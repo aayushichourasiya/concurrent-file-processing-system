@@ -1,0 +1,10 @@
+Verification performed while preparing this archive
+
+Java production-source compile: PASS
+(no compiler errors)
+javac exit code: 0
+Maven tests/runtime: NOT RUN (Maven executable unavailable in generation environment).
+
+To run the full checks on a machine with JDK 17 and Maven:
+1. mvn clean test
+2. mvn exec:java

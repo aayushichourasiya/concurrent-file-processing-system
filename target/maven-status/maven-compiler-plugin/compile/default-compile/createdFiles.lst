@@ -1,0 +1,4 @@
+com/aayushi/fileprocessor/model/FileProcessingResult.class
+com/aayushi/fileprocessor/processor/TextFileProcessor.class
+com/aayushi/fileprocessor/Main.class
+com/aayushi/fileprocessor/service/SequentialFileProcessingService.class
